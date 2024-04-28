@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-- :skull: Iam Ilimitado 
+ 
 - 🌱 I’m currently learning Computer Science
 
 <!--
