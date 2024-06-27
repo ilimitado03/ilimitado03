@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently learning web3
-- 👯 I’m looking to collaborate on web projects
+- :handshake: I’m looking to collaborate on web projects
 
 <!--
 **ilimitado03/ilimitado03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
